@@ -1,0 +1,41 @@
+---
+title: "The  Hub"
+logo: "assets/SERVIRWA.png"
+format: 
+  html:
+    css: custom.scss
+---
+
+🔗 [More Hub Details](https://servir.icrisat.org/)
+
+
+
+## Thematic Areas
+
+|                 |
+|-----------------------------------|
+| <img src="assets/afs.jpg" width="30">   Agriculture and Food Security     | 
+|<img src="assets/ecm.jpg" width="30">   Ecosystem and Carbon Management   | 
+|<img src="assets/ws.jpg" width="30">   Water Security                    | 
+| <img src="assets/wcr.jpg" width="30">  Weather and Climate Resilience    | 
+| <img src="assets/fis.jpg" width="30">  Financial Instruments             | 
+
+## Service Portfolio
+
+| Service Area                       | Services Offered                                    |
+|------------------------------------|-----------------------------------------------------|
+| Agriculture and Food Security      | - Crop Monitoring and Condition Assessment          |
+|                                    | - Desert Locust Risk Mapping (P-Locust)             |
+|                                    | - Bridging the Gap Between AFS and Weather & Climate|
+| Ecosystem and Carbon Management    | - Artisanal Mining Monitoring                       |
+|                                    | - Charcoal Production Monitoring                    |
+|                                    | - Commune-Level Development Planning                |
+|                                    | - Farmer-Managed Land Natural Regeneration          |
+|                                    | - Harmonization of Regional Land use/Land Cover Classification System|
+| Water Security                     | - Flash Flood Vulnerability Mapping                 |
+|                                    | - GroundWater Monitoring                           |
+|                                    | - Monitoring Ephemeral Water Bodies-Wendou               |
+| Weather and Climate Resilience     | - Seasonal Forecasting                              |
+| Financial Instruments              | - Local Risk Control                                |
+|                                    | - Disaster Preparedness                             |
+
